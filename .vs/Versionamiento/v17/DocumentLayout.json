@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aoliv\\OneDrive\\Escritorio\\UNIVERSIDAD\\SEXTO SEMESTRE\\SISTEMAS OPERATIVOS\\Versionamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52530016-546C-4B38-A952-A50B93B582FD}|Versionamiento\\Versionamiento.csproj|c:\\users\\aoliv\\onedrive\\escritorio\\universidad\\sexto semestre\\sistemas operativos\\versionamiento\\versionamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52530016-546C-4B38-A952-A50B93B582FD}|Versionamiento\\Versionamiento.csproj|solutionrelative:versionamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aoliv\\OneDrive\\Escritorio\\UNIVERSIDAD\\SEXTO SEMESTRE\\SISTEMAS OPERATIVOS\\Versionamiento\\Versionamiento\\Program.cs",
+              "RelativeDocumentMoniker": "Versionamiento\\Program.cs",
+              "ToolTip": "C:\\Users\\aoliv\\OneDrive\\Escritorio\\UNIVERSIDAD\\SEXTO SEMESTRE\\SISTEMAS OPERATIVOS\\Versionamiento\\Versionamiento\\Program.cs",
+              "RelativeToolTip": "Versionamiento\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:28:18.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
