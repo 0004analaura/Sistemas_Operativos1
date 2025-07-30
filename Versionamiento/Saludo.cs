@@ -12,7 +12,9 @@ namespace Versionamiento
         public static void Main(string[] args)
         {
            
-            Console.WriteLine("¡Hola! he creado una clase");
+            Console.WriteLine("¡Hola! he creado una clase, espero podamos aprender de el curso de sistemas operativos");
+
+
 
             
         }
